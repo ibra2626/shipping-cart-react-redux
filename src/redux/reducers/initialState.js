@@ -1,4 +1,5 @@
 export default {
-    currentCategory : {categoryName:"Bavegeres"},
-    categories : []
+    currentCategory : {},
+    categories : [],
+    products : []
 }
